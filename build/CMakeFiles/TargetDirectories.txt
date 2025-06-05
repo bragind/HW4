@@ -1,0 +1,4 @@
+G:/Bragin/Projects/HW4/build/CMakeFiles/HW4.dir
+G:/Bragin/Projects/HW4/build/CMakeFiles/app.dir
+G:/Bragin/Projects/HW4/build/CMakeFiles/edit_cache.dir
+G:/Bragin/Projects/HW4/build/CMakeFiles/rebuild_cache.dir
